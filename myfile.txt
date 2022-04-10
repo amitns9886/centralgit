@@ -1,2 +1,2 @@
-Hello,
-Welcome to Git
+Welcome to world of  Git
+Lets start commintting
